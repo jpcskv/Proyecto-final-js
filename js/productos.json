@@ -1,0 +1,162 @@
+[
+    {
+        "id": "rock-01",
+        "titulo": "Iron Maiden - The Book of Souls",
+        "imagen": "./img/rock-01.webp",
+        "categoria": {
+            "nombre": "Rock",
+            "id": "rock"
+        },
+        "precio": 99
+    },
+    {
+        "id": "rock-02",
+        "titulo": "Metallica",
+        "imagen": "./img/rock-02.webp",
+        "categoria": {
+            "nombre": "Rock",
+            "id": "rock"
+        },
+        "precio": 75
+    },
+    {
+        "id": "rock-03",
+        "titulo": "Black Sabbath - Paranoid",
+        "imagen": "./img/rock-03.webp",
+        "categoria": {
+            "nombre": "Rock",
+            "id": "rock"
+        },
+        "precio": 73
+    },
+    {
+        "id": "rock-04",
+        "titulo": "Red Hot Chili Peppers - Californication",
+        "imagen": "./img/rock-04.webp",
+        "categoria": {
+            "nombre": "Rock",
+            "id": "rock"
+        },
+        "precio": 70
+    },
+    {
+        "id": "rap-01",
+        "titulo": "Childish Gambino - KAUAI",
+        "imagen": "./img/rap-01.webp",
+        "categoria": {
+            "nombre": "Rap",
+            "id": "rap"
+        },
+        "precio": 13
+    },
+    {
+        "id": "rap-02",
+        "titulo": "Rayden - La Victoria Imposible",
+        "imagen": "./img/rap-02.webp",
+        "categoria": {
+            "nombre": "Rap",
+            "id": "rap"
+        },
+        "precio": 12
+    },
+    {
+        "id": "rap-03",
+        "titulo": "Kendrick Lamar",
+        "imagen": "./img/rap-03.webp",
+        "categoria": {
+            "nombre": "Rap",
+            "id": "rap"
+        },
+        "precio": 23
+    },
+    {
+        "id": "rap-04",
+        "titulo": "The Notorious BIG - Ready to Die",
+        "imagen": "./img/rap-04.webp",
+        "categoria": {
+            "nombre": "Rap",
+            "id": "rap"
+        },
+        "precio": 14
+    },
+    {
+        "id": "pop-01",
+        "titulo": "AMAIA - Pero No Pasa Nada",
+        "imagen": "./img/pop-01.webp",
+        "categoria": {
+            "nombre": "Pop",
+            "id": "pop"
+        },
+        "precio": 75
+    },
+    {
+        "id": "pop-02",
+        "titulo": "Michael Jackson - Thriller",
+        "imagen": "./img/pop-02.webp",
+        "categoria": {
+            "nombre": "Pop",
+            "id": "pop"
+        },
+        "precio": 10
+    },
+    {
+        "id": "pop-03",
+        "titulo": "La oreja de Van gogh",
+        "imagen": "./img/pop-03.webp",
+        "categoria": {
+            "nombre": "Pop",
+            "id": "pop"
+        },
+        "precio": 77
+    },
+    {
+        "id": "pop-04",
+        "titulo": "Lola Indigo - Mujer Bruja",
+        "imagen": "./img/pop-04.webp",
+        "categoria": {
+            "nombre": "Pop",
+            "id": "pop"
+        },
+        "precio": 85
+    },
+    {
+        "id": "urbana-01",
+        "titulo": "Rosalia - El Mal Querer",
+        "imagen": "./img/urb-01.webp",
+        "categoria": {
+            "nombre": "Urbana",
+            "id": "urbana"
+        },
+        "precio": 31
+    },
+    {
+        "id": "urbana-02",
+        "titulo": "Rigoberta Bandini - La Emperatriz",
+        "imagen": "./img/urb-02.webp",
+        "categoria": {
+            "nombre": "Urbana",
+            "id": "urbana"
+        },
+        "precio": 16
+    },
+    {
+        "id": "urbana-03",
+        "titulo": "Nathy Peluso - La Sandunguera",
+        "imagen": "./img/urb-03.webp",
+        "categoria": {
+            "nombre": "Urbana",
+            "id": "urbana"
+        },
+        "precio": 65
+    },
+    {
+        "id": "urbana-04",
+        "titulo": "Rauw Alejandro - Afrodisiaco",
+        "imagen": "./img/urb-04.webp",
+        "categoria": {
+            "nombre": "Urbana",
+            "id": "urbana"
+        },
+        "precio": 12
+    }
+]
